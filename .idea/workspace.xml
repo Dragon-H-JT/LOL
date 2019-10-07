@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea9a2b14-9456-4cb0-a262-bebaa7a1d92d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OfvIDbTzFquYElrHkB4s4io59m" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Animals" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Hero">
+    <configuration name="ADAPHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lol.ADAPHero" />
+      <module name="Lol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ADHero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lol.ADHero" />
+      <module name="Lol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lol.Hero" />
+      <module name="Lol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Item" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lol.Item" />
+      <module name="Lol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Support" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lol.Support" />
+      <module name="Lol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hero" />
+        <item itemvalue="Application.ADAPHero" />
+        <item itemvalue="Application.Item" />
+        <item itemvalue="Application.ADHero" />
+        <item itemvalue="Application.Support" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea9a2b14-9456-4cb0-a262-bebaa7a1d92d" name="Default Changelist" comment="" />
+      <created>1564381383090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564381383090</updated>
+      <workItem from="1564381387427" duration="6857000" />
+      <workItem from="1564407499129" duration="24000" />
+      <workItem from="1564554369518" duration="5353000" />
+      <workItem from="1564817265718" duration="4807000" />
+      <workItem from="1567500512510" duration="4885000" />
+      <workItem from="1567582369763" duration="4588000" />
+      <workItem from="1567605036427" duration="2450000" />
+      <workItem from="1567681276591" duration="9015000" />
+      <workItem from="1567997569841" duration="3613000" />
+      <workItem from="1568038144277" duration="2965000" />
+      <workItem from="1568119979200" duration="8458000" />
+      <workItem from="1568211660238" duration="1864000" />
+      <workItem from="1568562103773" duration="257000" />
+      <workItem from="1568640424305" duration="287000" />
+      <workItem from="1568640745411" duration="55000" />
+      <workItem from="1568640876803" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lol$ADHero.ic" NAME="ADHero Coverage Results" MODIFIED="1567689075519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lol.*</FILTER>
+    </SUITE>
+  </component>
+</project>
